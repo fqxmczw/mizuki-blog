@@ -12,6 +12,7 @@ draft: false
 date: 2025-05-30
 image: "./cover.png"
 pubDate: 2025-05-30
+permalink: "encrypted-example"
 ---
 
 # Hello World! 欢迎来到我的数字树洞与灵感空间 ✨
