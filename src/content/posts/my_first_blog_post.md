@@ -1,12 +1,17 @@
 ---
 title: 开启新征程：我的博客第一篇文章！
-date: 2026-05-31
-tags:
-  - 随笔
-  - 博客
-  - 起航
-categories:
-  - 生活记录
+published: 2025-05-30
+pinned: true
+description: A simple example of a first blog post.
+tags: [Notes]
+category: Notes
+licenseName: "Unlicensed"
+author: kongcl
+sourceLink: "https://github.com/fqxmczw/markdown"
+draft: false
+date: 2025-05-30
+image: "./cover.png"
+pubDate: 2025-05-30
 ---
 
 # Hello World! 欢迎来到我的数字树洞与灵感空间 ✨
