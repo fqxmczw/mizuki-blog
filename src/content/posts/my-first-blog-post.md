@@ -4,7 +4,7 @@ published: 2026-05-31
 pinned: true
 description: A simple example of a first blog post.
 tags: [Notes]
-category: Notes
+category: Essay
 licenseName: "Unlicensed"
 author: kongcl
 sourceLink: "https://github.com/fqxmczw/markdown"
