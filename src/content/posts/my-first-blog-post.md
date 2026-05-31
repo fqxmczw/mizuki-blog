@@ -1,6 +1,6 @@
 ---
 title: 开启新征程：我的博客第一篇文章！
-published: 2025-05-30
+published: 2025-05-31
 pinned: true
 description: A simple example of a first blog post.
 tags: [Notes]
@@ -9,9 +9,9 @@ licenseName: "Unlicensed"
 author: kongcl
 sourceLink: "https://github.com/fqxmczw/markdown"
 draft: false
-date: 2026-05-30
+date: 2026-05-31
 image: "./cover.png"
-pubDate: 2026-05-30
+pubDate: 2026-05-31
 permalink: "encrypted-example"
 ---
 
