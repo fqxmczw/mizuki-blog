@@ -1,5 +1,5 @@
 ---
-title: 开启新征程：我的博客第一篇文章！
+title: 我博客的第一篇文章！
 published: 2026-05-31
 pinned: true
 description: A simple example of a first blog post.
